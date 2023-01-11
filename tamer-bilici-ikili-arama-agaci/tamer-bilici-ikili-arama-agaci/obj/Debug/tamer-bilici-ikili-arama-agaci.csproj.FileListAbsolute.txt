@@ -1,0 +1,9 @@
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-ikili-arama-agaci\tamer-bilici-ikili-arama-agaci\bin\Debug\tamer-bilici-ikili-arama-agaci.exe.config
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-ikili-arama-agaci\tamer-bilici-ikili-arama-agaci\bin\Debug\tamer-bilici-ikili-arama-agaci.exe
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-ikili-arama-agaci\tamer-bilici-ikili-arama-agaci\bin\Debug\tamer-bilici-ikili-arama-agaci.pdb
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-ikili-arama-agaci\tamer-bilici-ikili-arama-agaci\obj\Debug\tamer-bilici-ikili-arama-agaci.csprojResolveAssemblyReference.cache
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-ikili-arama-agaci\tamer-bilici-ikili-arama-agaci\obj\Debug\tamer_bilici_ikili_arama_agaci.Form1.resources
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-ikili-arama-agaci\tamer-bilici-ikili-arama-agaci\obj\Debug\tamer_bilici_ikili_arama_agaci.Properties.Resources.resources
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-ikili-arama-agaci\tamer-bilici-ikili-arama-agaci\obj\Debug\tamer-bilici-ikili-arama-agaci.csproj.GenerateResource.Cache
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-ikili-arama-agaci\tamer-bilici-ikili-arama-agaci\obj\Debug\tamer-bilici-ikili-arama-agaci.exe
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-ikili-arama-agaci\tamer-bilici-ikili-arama-agaci\obj\Debug\tamer-bilici-ikili-arama-agaci.pdb
